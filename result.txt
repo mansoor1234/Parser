@@ -1,0 +1,5 @@
+OBX|1|A250|NEGATIVE|
+NTE|1|comment for NEGATIVE Result|
+OBX|2|B250|++|
+NTE|2|comment1 for ++ Result|
+NTE|2|comment2 for ++ Result|
